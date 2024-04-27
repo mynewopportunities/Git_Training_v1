@@ -1,16 +1,1 @@
-<<<<<<< HEAD
-This is a test file
-
-This is the second line.
-
-This is the third line.
-
-This is the fourth line.
-
-
-=======
-This is a test file.
-This is the second line.
-This is the third line.
-This is the 4th Line.
->>>>>>> 9f6e703a732566ff00777da1ba0b90e05b770ccb
+1
