@@ -1,1 +1,2 @@
 This is Sample File 2
+This is Comparison Lecture, Change in File 2
